@@ -67,13 +67,13 @@ bookmarks = {
 			focuses = {
 			}		
 		}
-		"JAP"={
-			history = "JAP_GATHERING_STORM_DESC"
-			ideology = fascism
-			ideas = {
+		PRC = {
+			history = "PRC_GATHERING_STORM_DESC"
+			ideology = communism
+			ideas={
 			}	
 			focuses = {
-			}			
+			}		
 		}
 		"SOV"={
 			history = "SOV_GATHERING_STORM_DESC"

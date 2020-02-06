@@ -61,7 +61,7 @@
  STATE_60:0 "Thüringen"
  STATE_61:0 "Mecklenburg"
  STATE_62:1 "Vorpommern"
- STATE_63:0 "Hinterpommern"
+ STATE_63:0 "Zachodniopomorskie"
  STATE_64:0 "Brandenburg"
  STATE_65:0 "Sachsen"
  STATE_66:0 "Dolny Slask"
@@ -788,3 +788,4 @@
  STATE_787:0 "Northern Kashmir"
  STATE_788:0 "Western Kashmir"
  STATE_789:0 "Istria"
+ STATE_790:0 "Western Mongolia"
