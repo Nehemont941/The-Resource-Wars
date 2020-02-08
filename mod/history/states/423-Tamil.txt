@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = FRA
+		owner = EUC
                 add_core_of = RAJ
 		buildings = {
 			infrastructure = 5

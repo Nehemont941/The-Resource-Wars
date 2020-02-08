@@ -24,14 +24,11 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Mao Zedong"
-	desc = "POLITICS_MAO_ZEDONG_DESC"
-	picture = "GFX_portrait_prc_mao_zedong"
+	name = "Wei Cheng"
+	desc = ""
+	picture = "gfx/leaders/Asia/Portrait_PRC_Leader.dds"
 	expire = "1965.1.1"
 	ideology = marxism
-	traits = {
-		cornered_fox
-	}
 }
 
 create_field_marshal = {

@@ -4,10 +4,10 @@ bookmarks = {
 		desc = "GATHERING_STORM_DESC"
 		date = 2052.1.1.12
 		picture = "GFX_select_date_1936"
-		default_country = "GER"
+		default_country = "EUC"
 		default = yes
 		
-		"FRA"={
+		"EUC"={
 			history = "FRA_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {
@@ -22,50 +22,6 @@ bookmarks = {
 			}
 			focuses = {
 			}
-		}
-		"ENG"={
-			history = "ENG_GATHERING_STORM_DESC"
-			ideology = democratic
-			available = { has_dlc = "Man the Guns" }
-			ideas = {
-			}
-			focuses = {
-			}
-		}
-		"ENG"={
-			history = "ENG_GATHERING_STORM_DESC"
-			ideology = democratic
-			available = { NOT = { has_dlc = "Man the Guns" } }
-			ideas = {
-			}
-			focuses = {
-			}
-		}
-		"GER"={
-			history = "GER_GATHERING_STORM_DESC"
-			ideology = fascism
-			available = { has_dlc = "Waking the Tiger" }
-			ideas = {
-			}
-			focuses = {
-			}
-		}
-		"GER"={
-			history = "GER_GATHERING_STORM_DESC"
-			ideology = fascism
-			available = { NOT = { has_dlc = "Waking the Tiger" } }
-			ideas = {
-			}
-			focuses = {
-			}
-		}
-		"ITA"={
-			history = "ITA_GATHERING_STORM_DESC"
-			ideology = fascism
-			ideas = {
-			}	
-			focuses = {
-			}		
 		}
 		PRC = {
 			history = "PRC_GATHERING_STORM_DESC"
